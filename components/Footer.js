@@ -10,8 +10,8 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <h4 className="text-lg font-bold mb-4">Company Info</h4>
-            <p className="mb-2">Building Dreams, Constructing Futures</p>
-            <p>© {new Date().getFullYear()} Construction Company. All Rights Reserved.</p>
+            <p className="mb-2">Creative Construction, Building Your Vision with Precision and Passion</p>
+            <p>© {new Date().getFullYear()} Creative Construction. All Rights Reserved.</p>
           </div>
 
           {/* Quick Links */}
